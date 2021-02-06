@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_parametres"
+        android:title="@string/settings"
+        app:showAsAction="never">
+
+    </item>
+
+    <item
+        android:id="@+id/menu_telephone"
+        android:title="@string/menu_telephone"
+        app:showAsAction="never">
+    </item>
+
+    <item
+        android:id="@+id/menu_serveur"
+        android:title="@string/menu_serveur"
+        app:showAsAction="never">
+    </item>
+
+</menu>

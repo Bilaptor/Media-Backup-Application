@@ -1,0 +1,40 @@
+<resources>
+    <!--variables pour les shared preferences-->
+    <string name="sp_username">com.example.MediaBackupApplication.username</string>
+    <string name="sp_password">com.example.MediaBackupApplication.password</string>
+    <string name="sp_adresseip">com.example.MediaBackupApplication.ip</string>
+    <string name="sp_checkbox">com.example.MediaBackupApplication.checkbox</string>
+    <string name="sp_directory_path">com.example.MediaBackupApplication.chemin</string>
+    <string name="key_directory_path">directory_path</string>
+    <string name="sp_wanted_directories">com.example.MediaBackupApplication.wanteddirectories</string>
+    <string name="sp_settings_switch">com.example.MediaBackupApplication.settingsswitch</string>
+
+
+
+    <!-- variable de texte-->
+    <string name="app_name">Transfert de Photos</string>
+    <string name="login_page_name">Page de Connexion</string>
+    <string name="signin_page_name">"Création d'un Compte"</string>
+
+    <string name="texte_ip">Adresse IP</string>
+    <string name="texte_email">Adresse Courriel</string>
+    <string name="texte_password">Entrez le Mot de Passe</string>
+    <string name="checkbox">Se souvenir de la connexion</string>
+    <string name="bouton_connexion">Connexion</string>
+    <string name="bouton_signin">Créer un Compte</string>
+
+    <string name="settings">Paramètres</string>
+    <string name="menu_serveur">Photos du Serveur</string>
+    <string name="menu_telephone">Photos du Téléphone</string>
+    <string name="switch_summary">Afficher seulement les photos qui ne sont pas encore tranférés</string>
+    <string name="text_path">Ajouter des chemins de dossier</string>
+    <string name="switch_titre">Photos non transférés</string>
+    <string name="directory_description">Entrer le chemin de dossier</string>
+    <string name="path_directory_default">/storage/emulated/0/DCIM/Camera</string>
+
+    <string name="sync_phone">Téléverser</string>
+    <string name="sync_server">Télécharger</string>
+
+    <string name="tittle_activity_settings">SettingsActivity</string>
+
+</resources>
